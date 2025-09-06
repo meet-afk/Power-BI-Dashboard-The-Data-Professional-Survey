@@ -80,7 +80,7 @@ This project uses a survey dataset of data professionals to build a comprehensiv
 
 ## <a name="-how-to-download-the-dashboard"></a> 🔗 Download The Dashboard
 
-➡️ **[Download the Interactive Power BI Dashboard Here](https://your-publish-to-web-link.com)**
+➡️ **[Download the Interactive Power BI Dashboard Here](https://github.com/meet-afk/Power-BI-Dashboard-The-Data-Professional-Survey/blob/main/Project%20Power%20BI%20-%20Data%20Professional%20Survey%20Breakdown.pbix)**
 
 ---
 
