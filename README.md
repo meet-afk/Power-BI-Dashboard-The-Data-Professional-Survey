@@ -94,6 +94,6 @@ This project was a fantastic opportunity to practice end-to-end Power BI develop
 
 I would love to hear your feedback or discuss this project further. Please feel free to connect with me!
 
--   **My Portfolio:** [your-portfolio-link.com](https://meet-afk.github.io/)
+-   **My Portfolio:** [My Portfolio](https://meet-afk.github.io/)
 
 Check out my other projects! ➜ **[My GitHub Profile](https://github.com/meet-afk)**
